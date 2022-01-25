@@ -28,7 +28,7 @@
             echo " Il y a eu une erreur lors de l'envoie du mail !";
         }
         elseif (isset($_GET["message"])){
-            echo " Le mail a été envoyé avec succés !";
+            echo " Le mail a été envoyé avec succés!";
         }
     ?>
 
